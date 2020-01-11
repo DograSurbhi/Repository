@@ -6,4 +6,9 @@ This spark program produces a pair RDD of the form (k,p(k)) where k is an indegr
 The input dataset can be downloaded from here: https://snap.stanford.edu/data/higgssocial_network.edgelist.gz and is in the following form:  
              <userid1> <userid2> 
   Where userid1 follows userid2.  
+  
+  
+  
+ The solution is provided with the extension (.ipynb)
+ Please use jupyter notebook to run and test code.
  
